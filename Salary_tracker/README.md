@@ -137,11 +137,7 @@ The script implements robust error handling:
 - Implement role-based salary adjustments
 - Add performance rating system linked to salary
 
-## Requirements
 
-- Python 3.6+
-- No external dependencies
 
-## License
 
-This is part of the mwangimuhia031-alt/Projects repository.
+
